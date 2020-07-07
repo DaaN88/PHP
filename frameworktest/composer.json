@@ -14,8 +14,7 @@
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
-        "laravel/ui": "^2.0",
-        "websocket-extensions": ">=0.1.4"
+        "laravel/ui": "^2.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
