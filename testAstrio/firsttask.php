@@ -58,4 +58,4 @@ function searchCategory($enteredArrayCat, $id)
     }
 }
 
-searchCategory($categories, intval($_POST['id']));
+searchCategory($categories, (int)$_POST['id']);
