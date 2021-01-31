@@ -1,3 +1,9 @@
+### About
+
+Решения задач с сайта edabit.com
+Solving tasks from edabit.com
+
+
 ### Who_won.php:
 
 Create a function that takes a Tic-tac-toe board and returns "X" if the X's are placed in a way that there are three X's in a row or returns "O" if there is three O's in a row.
